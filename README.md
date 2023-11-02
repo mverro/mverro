@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mverro&label=Profile%20views&color=0e75b6&style=flat" alt="mverro" /> </p>
 
-- 🔭 I’m a **Junior Odoo Developer**
+- 🔭 I’m a **Software Developer & Mobile**
 
 - 📫 How to reach me **azmadn97@gmail.com**
 
